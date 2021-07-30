@@ -13,13 +13,13 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Airlon-Java" height="40" width="50" src="https://github.com/Airlon/devicon/blob/master/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="Airlon-Ap" height="50" width="60" src="https://github.com/Airlon/devicon/blob/master/icons/apache/apache-plain-wordmark.svg">
+  <img align="center" alt="Airlon-git" height="50" width="60" src="https://github.com/Airlon/devicon/blob/master/icons/git/git-original-wordmark.svg">
+  <img align="center" alt="Airlon-Jk" height="40" width="50" src="https://github.com/Airlon/devicon/blob/master/icons/jenkins/jenkins-original.svg">
+  <img align="center" alt="Airlon-Mdb" height="50" width="60" src="https://github.com/Airlon/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg">
+  <img align="center" alt="Airlon-mysql" height="50" width="60" src="https://github.com/Airlon/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="Airlon-Oracle1" height="50" width="60" src="https://github.com/Airlon/devicon/blob/master/icons/oracle/oracle-original.svg">
   <img align="right" alt="Airlon-Onoi" src="https://cdn.discordapp.com/attachments/870739713315704993/870740502033600582/63abd40e2e404ce479156f25a2a9d8bf.gif">
 </div>
 
