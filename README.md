@@ -37,7 +37,7 @@ Airlon/Airlon is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 
-## Principais Contribuições
+## Main Contributions
 <div style="display: inline_block"><br>
   <img align="center" alt="Airlon-Commits" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg">
   <img align="center" alt="Airlon-Issues" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
@@ -50,7 +50,7 @@ You can click the Preview link to take a look at your changes.
   </a>
 </div>
 
-## Experiência Profissional
+## Professional Experience
 <div style="display: inline_block"><br>
   <img align="center" alt="Airlon-NTConsult" height="50" width="60" src="https://github.com/Airlon/devicon/blob/master/icons/oracle/oracle-original.svg">
   <img align="center" alt="Airlon-FintechMagalu" height="50" width="60" src="https://github.com/Airlon/devicon/blob/master/icons/mongodb/mongodb-original.svg">
@@ -101,7 +101,7 @@ You can click the Preview link to take a look at your changes.
   </ul>
 </div>
 
-## Formação Acadêmica
+## Academic Background
 <div style="display: inline_block"><br>
   <img align="center" alt="Airlon-FMU" height="50" width="60" src="https://github.com/Airlon/devicon/blob/master/icons/aarch64/logo_fmu-960x640-removebg-preview.png">
   <img align="center" alt="Airlon-Senai" height="50" width="60" src="https://github.com/Airlon/devicon/blob/master/icons/aarch64/images__2_-removebg-preview.png">
@@ -115,7 +115,7 @@ You can click the Preview link to take a look at your changes.
   <em>Técnico em Informática</em>, São Paulo, 2014</p>
 </div>
 
-## Idiomas e Formação Complementar
+## Languages ​​and Additional Training
 <div style="display: inline_block"><br>
   <img align="center" alt="Airlon-English" height="40" width="50" src="https://github.com/Airlon/devicon/blob/master/icons/aarch64/Canada-logo-311C09D482-seeklogo.com.png">
   <img align="center" alt="Airlon-Alura" height="50" width="60" src="https://github.com/Airlon/devicon/blob/master/icons/aarch64/channels4_profile.jpg">
@@ -123,15 +123,15 @@ You can click the Preview link to take a look at your changes.
   <img align="center" alt="Airlon-LinkedInLearning" height="50" width="60" src="https://github.com/Airlon/devicon/blob/master/icons/aarch64/0d965c639dad997285aa1e434c0bc7d5.gif">
 </div>
 <div align="left">
-  <p><strong>Inglês Avançado</strong><br>
+  <p><strong>Advanced English</strong><br>
   <em>Hansa Language Centre, Toronto, Canadá</em></p>
 </div>
 <div align="left">
-  <p><strong>Certificação Software Engineer</strong><br>
+  <p><strong>Software Engineer Certification</strong><br>
   <em>HackerRank</em></p>
 </div>
 <div align="left">
-  <p><strong>Microsoft PowerBI para Data Science</strong><br>
+  <p><strong>Microsoft PowerBI for Data Science</strong><br>
   <em>Data Science Academy</em></p>
 </div>
 <div align="left">
