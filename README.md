@@ -3,12 +3,12 @@
 - 🛠 Algumas ferramentas e tecnologias que já utilizei: IDE Eclipse, IntelliJ, Tomcat, Websphere, Git, SVN, GitLab, GitHub, Postman, MySQL, SQL, MongoDB, Oracle SQL, Maven, Ant, Spring Boot, Spring Cloud, Spring MVC, Spring Batch.
 - 🎻 Meus hobbies são tocar violino e aquarismo.
 
-<div align="center">
+<div>
   <a href="https://github.com/Airlon">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Airlon&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Airlon&layout=compact&langs_count=7&theme=dark"/>
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Airlon&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Airlon&layout=compact&langs_count=7&theme=dark"/>
 </div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Airlon-Java" height="40" width="50" src="https://github.com/Airlon/devicon/blob/master/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Airlon-Ap" height="50" width="60" src="https://github.com/Airlon/devicon/blob/master/icons/apache/apache-plain-wordmark.svg">
@@ -19,6 +19,17 @@
   <img align="center" alt="Airlon-Oracle1" height="50" width="60" src="https://github.com/Airlon/devicon/blob/master/icons/oracle/oracle-original.svg">
   <img align="right" alt="Airlon-Onoi" src="https://cdn.discordapp.com/attachments/870739713315704993/870740502033600582/63abd40e2e404ce479156f25a2a9d8bf.gif">
 </div>
+ ##
+ 
+ <div>
+ 
+  
+  <a href="https://www.linkedin.com/in/airlon-servulo-b53198121/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+ ![Snake animation](https://github.com/Airlon/Airlon/blob/output/github-contribution-grid-snake.svg)
+
+ 
+ </div>
 Principais Contribuições
 <div style="display: inline_block"><br>
   <img align="center" alt="Airlon-Commits" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg">
