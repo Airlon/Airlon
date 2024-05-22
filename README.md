@@ -84,5 +84,5 @@ Experiência Profissional
 Formação Acadêmica
 <div style="display: inline_block"><br>
   <img align="center" alt="Airlon-FMU" height="50" width="60" src="https://github.com/Airlon/devicon/blob/master/icons/aarch64/logo_fmu-960x640-removebg-preview.png">
-  <img align="center" alt="Airlon-Senac" height="50" width="60" src="icons/aarch64/images__2_-removebg-preview.png">
+  <img align="center" alt="Airlon-Senac" height="50" width="60" src="https://github.com/Airlon/devicon/blob/master/icons/aarch64/images__2_-removebg-preview.png">
 </div>
