@@ -120,8 +120,7 @@ You can click the Preview link to take a look at your changes.
   <img align="center" alt="Airlon-English" height="40" width="50" src="https://github.com/Airlon/devicon/blob/master/icons/aarch64/Canada-logo-311C09D482-seeklogo.com.png">
   <img align="center" alt="Airlon-Alura" height="50" width="60" src="https://github.com/Airlon/devicon/blob/master/icons/aarch64/channels4_profile.jpg">
   <img align="center" alt="Airlon-HackerRank" height="50" width="60" src="https://github.com/Airlon/devicon/blob/master/icons/aarch64/800px-HackerRank_Icon-1000px.png">
-  <img align="center" alt="Airlon-DataScienceAcademy" height="50" width="60" src="https://datacademy.com.br/assets/logo.png">
-  <img align="center" alt="Airlon-LinkedInLearning" height="50" width="60" src="https://static-exp1.licdn.com/sc/h/8gq31o1twfo7z4h016i5ttkbp">
+  <img align="center" alt="Airlon-LinkedInLearning" height="50" width="60" src="https://github.com/Airlon/devicon/blob/master/icons/aarch64/0d965c639dad997285aa1e434c0bc7d5.gif">
 </div>
 <div align="left">
   <p><strong>Inglês Avançado</strong><br>
