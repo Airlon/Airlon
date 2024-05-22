@@ -21,11 +21,11 @@
 </div>
 Principais Contribuições
 <div style="display: inline_block"><br>
-  <img align="center" alt="Airlon-GitHub" height="50" width="60" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png">
-  <img align="center" alt="Airlon-Commits" height="40" width="50" src="https://img.icons8.com/ios-filled/50/000000/commit.png">
-  <img align="center" alt="Airlon-Issues" height="40" width="50" src="https://img.icons8.com/material-outlined/48/000000/issue-tracking.png">
-  <img align="center" alt="Airlon-PullRequests" height="40" width="50" src="https://img.icons8.com/ios-glyphs/30/000000/pull-request.png">
-  <img align="center" alt="Airlon-CodeReview" height="40" width="50" src="https://img.icons8.com/ios-glyphs/30/000000/code-review.png">
+  <img align="center" alt="Airlon-GitHub" height="40" width="50" src="https://img.icons8.com/ios-filled/50/000000/github.png">
+  <img align="center" alt="Airlon-Commits" height="40" width="50" src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/36/000000/external-git-commit-describes-the-snapshot-or-the-change-description-bold-tal-revivo.png">
+  <img align="center" alt="Airlon-Issues" height="40" width="50" src="https://img.icons8.com/ios-filled/50/000000/issue.png">
+  <img align="center" alt="Airlon-PullRequests" height="40" width="50" src="https://img.icons8.com/ios-filled/50/000000/pull-request.png">
+  <img align="center" alt="Airlon-CodeReview" height="40" width="50" src="https://img.icons8.com/ios-filled/50/000000/code.png">
 </div>
 <div align="center">
   <a href="https://github.com/Airlon">
