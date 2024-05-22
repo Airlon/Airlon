@@ -1,4 +1,4 @@
-## Olá! Eu sou o Airlon Servulo
+Olá! Eu sou o Airlon Servulo
 🏠💻 Sou desenvolvedor Java, com experiência em diferentes frameworks, usando Spring e Quarkus.
 🛠 Algumas ferramentas e tecnologias que já utilizei: IDE Eclipse, IntelliJ, Tomcat, Websphere, Git, SVN, GitLab, GitHub, Postman, MySQL, SQL, MongoDB, Oracle SQL, Maven, Ant, Spring Boot, Spring Cloud, Spring MVC, Spring Batch.
 🎻 Meus hobbies são tocar violino e aquarismo.
@@ -21,11 +21,10 @@
 </div>
 Principais Contribuições
 <div style="display: inline_block"><br>
-  <img align="center" alt="Airlon-GitHub" height="40" width="50" src="https://img.icons8.com/ios-filled/50/000000/github.png">
-  <img align="center" alt="Airlon-Commits" height="40" width="50" src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/36/000000/external-git-commit-describes-the-snapshot-or-the-change-description-bold-tal-revivo.png">
-  <img align="center" alt="Airlon-Issues" height="40" width="50" src="https://img.icons8.com/ios-filled/50/000000/issue.png">
-  <img align="center" alt="Airlon-PullRequests" height="40" width="50" src="https://img.icons8.com/ios-filled/50/000000/pull-request.png">
-  <img align="center" alt="Airlon-CodeReview" height="40" width="50" src="https://img.icons8.com/ios-filled/50/000000/code.png">
+  <img align="center" alt="Airlon-Commits" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg">
+  <img align="center" alt="Airlon-Issues" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
+  <img align="center" alt="Airlon-PullRequests" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg">
+  <img align="center" alt="Airlon-CodeReview" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
 </div>
 <div align="center">
   <a href="https://github.com/Airlon">
@@ -34,11 +33,11 @@ Principais Contribuições
 </div>
 Experiência Profissional
 <div style="display: inline_block"><br>
-  <img align="center" alt="Airlon-NTConsult" height="50" width="60" src="https://user-images.githubusercontent.com/37825936/120236341-67df3a00-c222-11eb-836a-695f4e97a2b6.png">
-  <img align="center" alt="Airlon-FintechMagalu" height="50" width="60" src="https://logodownload.org/wp-content/uploads/2019/11/magalu-logo.png">
-  <img align="center" alt="Airlon-Fiserv" height="50" width="60" src="https://upload.wikimedia.org/wikipedia/commons/4/44/Fiserv_logo.svg">
-  <img align="center" alt="Airlon-BoaVista" height="50" width="60" src="https://www.reclameaqui.com.br/assets/uploads/reclame-aqui/logos/normal/202101/2e0dd61c23a73538d4e4d268870a2a2e26c0e453.jpg">
-  <img align="center" alt="Airlon-Autopass" height="50" width="60" src="https://www.autopass.com.br/wp-content/uploads/2020/04/autopass_logo.png">
+  <img align="center" alt="Airlon-NTConsult" height="50" width="60" src="https://github.com/Airlon/devicon/blob/master/icons/oracle/oracle-original.svg">
+  <img align="center" alt="Airlon-FintechMagalu" height="50" width="60" src="https://github.com/Airlon/devicon/blob/master/icons/mongodb/mongodb-original.svg">
+  <img align="center" alt="Airlon-Fiserv" height="50" width="60" src="https://github.com/Airlon/devicon/blob/master/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="Airlon-BoaVista" height="50" width="60" src="https://github.com/Airlon/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="Airlon-Autopass" height="50" width="60" src="https://github.com/Airlon/devicon/blob/master/icons/spring/spring-original-wordmark.svg">
 </div>
 <div align="left">
   <p><strong>NTConsult (AgiBank)</strong><br>
@@ -84,46 +83,6 @@ Experiência Profissional
 </div>
 Formação Acadêmica
 <div style="display: inline_block"><br>
-  <img align="center" alt="Airlon-FMU" height="50" width="60" src="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a6/FMUSP.svg/1200px-FMUSP.svg.png">
-  <img align="center" alt="Airlon-Senai" height="50" width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/SENAI_S%C3%A3o_Paulo.png/800px-SENAI_S%C3%A3o_Paulo.png">
-</div>
-<div align="left">
-  <p><strong>Universidade Metropolitana Unidas (FMU)</strong><br>
-  <em>Sistemas de Informação</em>, 2019</p>
-</div>
-<div align="left">
-  <p><strong>Senai Ary Torres</strong><br>
-  <em>Técnico em Informática</em>, São Paulo, 2014</p>
-</div>
-Idiomas e Formação Complementar
-<div style="display: inline_block"><br>
-  <img align="center" alt="Airlon-English" height="50" width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/2560px-Flag_of_Canada_%28Pantone%29.svg.png">
-  <img align="center" alt="Airlon-Alura" height="50" width="60" src="https://www.alura.com.br/assets/img/alura/logo.1570550707.svg">
-  <img align="center" alt="Airlon-HackerRank" height="50" width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/HackerRank_logo.png/1920px-HackerRank_logo.png">
-  <img align="center" alt="Airlon-DataScienceAcademy" height="50" width="60" src="https://datacademy.com.br/assets/logo.png">
-  <img align="center" alt="Airlon-LinkedInLearning" height="50" width="60" src="https://static-exp1.licdn.com/sc/h/8gq31o1twfo7z4h016i5ttkbp">
-</div>
-<div align="left">
-  <p><strong>Inglês Avançado</strong><br>
-  <em>Hansa Language Centre, Toronto, Canadá</em></p>
-</div>
-<div align="left">
-  <p><strong>Certificação Software Engineer</strong><br>
-  <em>HackerRank</em></p>
-</div>
-<div align="left">
-  <p><strong>Microsoft PowerBI para Data Science</strong><br>
-  <em>Data Science Academy</em></p>
-</div>
-<div align="left">
-  <p><strong>Learning SQL Programming</strong><br>
-  <em>LinkedIn Learning</em></p>
-</div>
-<div align="left">
-  <p><strong>Cursos Java</strong><br>
-  <em>Alura</em></p>
-</div>
-Conecte-se Comigo
-<div>
-  <a href="https://www.linkedin.com/in/airlon-servulo-b53198121/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <img align="center" alt="Airlon-FMU" height="50" width="60" src="https://github.com/Airlon/devicon/blob/master/icons/university/university.svg">
+  <img align="center" alt="Airlon-Senac" height="50" width="60" src="https://github.com/Airlon/devicon/blob/master/icons/senac/senac-original.svg">
 </div>
