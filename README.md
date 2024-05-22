@@ -107,12 +107,12 @@ You can click the Preview link to take a look at your changes.
   <img align="center" alt="Airlon-Senai" height="50" width="60" src="https://github.com/Airlon/devicon/blob/master/icons/aarch64/images__2_-removebg-preview.png">
 </div>
 <div align="left">
-  <p><strong>Universidade Metropolitana Unidas (FMU)</strong><br>
-  <em>Sistemas de Informação</em>, 2019</p>
+  <p><strong>United Metropolitan University (FMU)</strong><br>
+  <em>Information Systems</em>, 2019</p>
 </div>
 <div align="left">
   <p><strong>Senai Ary Torres</strong><br>
-  <em>Técnico em Informática</em>, São Paulo, 2014</p>
+  <em>Computer Technician</em>, São Paulo, 2014</p>
 </div>
 
 ## Languages ​​and Additional Training
