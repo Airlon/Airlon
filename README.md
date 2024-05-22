@@ -1,9 +1,8 @@
 ## Olá! Eu sou o Airlon Servulo
 
 
-- 🏠💻Hoje eu trabalho como sustentação e desenvolvimento Java
-- 🛠 Algumas ferramentas e tecnologias que já utilizei: IDE Eclipse, Tomcat, Websphere, Git, SVN, GitLab, GitHub, Postman, MySQL, SQL, MongoDB, Oracle SQL, Maven, Ant, Spring boot e etc...
-- 📚💡Estou estudando e buscando formação em front-end
+- 🏠💻Sou desenvolvedor Java, com experiencia em diferentes frameworks, usando Spring e Quarkus, 
+- 🛠 Algumas ferramentas e tecnologias que já utilizei: IDE Eclipse, Intellij,  Tomcat, Websphere, Git, SVN, GitLab, GitHub, Postman, MySQL, SQL, MongoDB, Oracle SQL, Maven, Ant, Spring boot, Spring Cloud, Spring MVC, Spring Batch
 - Meus hobbies é tocar violino 🎻 e aquarimos 🐠🐟
 
  <div>
