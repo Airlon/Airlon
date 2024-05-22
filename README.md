@@ -1,7 +1,7 @@
-## Olá! Eu sou o Airlon Servulo
-- 🏠💻 Sou desenvolvedor Java, com experiência em diferentes frameworks, usando Spring e Quarkus.
-- 🛠 Algumas ferramentas e tecnologias que já utilizei: IDE Eclipse, IntelliJ, Tomcat, Websphere, Git, SVN, GitLab, GitHub, Postman, MySQL, SQL, MongoDB, Oracle SQL, Maven, Ant, Spring Boot, Spring Cloud, Spring MVC, Spring Batch.
-- 🎻 Meus hobbies são tocar violino, jogar video e outras coisas :) 
+## Hi! I am Airlon Servulo
+🏠💻 I am a Java developer with experience in various frameworks, using Spring and Quarkus.
+🛠 Some tools and technologies I have used: IDE Eclipse, IntelliJ, Tomcat, Websphere, Git, SVN, GitLab, GitHub, Postman, MySQL, SQL, MongoDB, Oracle SQL, Maven, Ant, Spring Boot, Spring Cloud, Spring MVC, Spring Batch.
+🎻 My hobbies include playing the violin, gaming, and other activities :)
 
  <div>
   <a href="https://github.com/Airlon">
@@ -60,44 +60,44 @@ You can click the Preview link to take a look at your changes.
 </div>
 <div align="left">
   <p><strong>NTConsult (AgiBank)</strong><br>
-  <em>Desenvolvedor Java Sr</em> | Outubro/2023 a Abril/2024</p>
+  <em>Senior Java Developer</em> | October/2023 to April/2024</p>
   <ul>
-    <li>Desenvolvimento Java, migração e arquitetura Java e desenvolvimento de Batchs.</li>
-    <li>Tecnologias: Rest API, Java(11,17,19), RabbitMQ, Kafka, Azure Functions, Lambda, AWS, Rancher, Quarkus, Spring Boot, Spring MVC, Spring WebFlux, Spring Batch, Gradle, Maven, Portal Developer, WSO2, Jenkins, MongoDB, Postgres, CI/CD Pipeline, Sonar, Testes unitários.</li>
-    <li>Correções e desenvolvimento de novos projetos na Squad de Empréstimos.</li>
+    <li>Java development, migration and architecture, and batch development.</li>
+    <li>Technologies: Rest API, Java (11, 17, 19), RabbitMQ, Kafka, Azure Functions, Lambda, AWS, Rancher, Quarkus, Spring Boot, Spring MVC, Spring WebFlux, Spring Batch, Gradle, Maven, Portal Developer, WSO2, Jenkins, MongoDB, Postgres, CI/CD Pipeline, Sonar, Unit Testing.</li>
+    <li>Bug fixes and new project development in the Loans Squad.</li>
   </ul>
 </div>
 <div align="left">
   <p><strong>Fintech Magalu</strong><br>
-  <em>Desenvolvedor de Sistemas Java Sr</em> | Março/2022 a Outubro/2023</p>
+  <em>Senior Java Systems Developer</em> | March/2022 to October/2023</p>
   <ul>
-    <li>Desenvolvimento de soluções para Squad/PIX/Conta/Cartões.</li>
-    <li>Tecnologias: Rest API, JavaScript, Java(8,11,17), RabbitMQ, Jenkins, GitHub, MongoDB, SQL Server, MySQL, Spring Boot, Quarkus, GoLang, Automação e Testes, CI/CD, Microserviços Cloud, Jmeter e K6, Redis, Postman.</li>
-    <li>Melhorias e novos projetos relacionados a PIX, Conta e Cartões.</li>
+    <li>Solution development for the PIX/Account/Cards Squad.</li>
+    <li>Technologies: Rest API, JavaScript, Java (8, 11, 17), RabbitMQ, Jenkins, GitHub, MongoDB, SQL Server, MySQL, Spring Boot, Quarkus, GoLang, Automation and Testing, CI/CD, Cloud Microservices, Jmeter, K6, Redis, Postman.</li>
+    <li>Improvements and new projects related to PIX, Account, and Cards.</li>
   </ul>
 </div>
 <div align="left">
   <p><strong>Fiserv Inc</strong><br>
-  <em>Desenvolvedor Java Pleno</em> | Janeiro/2022 a Dezembro/2022</p>
+  <em>Mid-level Java Developer</em> | January/2022 to December/2022</p>
   <ul>
-    <li>Desenvolvimento de soluções para Squad/PIX.</li>
-    <li>Tecnologias: Spring Boot, Git, SVN, Jenkins, SQL Server, Oracle, Postman, Wildfly, JBoss.</li>
+    <li>Solution development for the PIX Squad.</li>
+    <li>Technologies: Spring Boot, Git, SVN, Jenkins, SQL Server, Oracle, Postman, Wildfly, JBoss.</li>
   </ul>
 </div>
 <div align="left">
   <p><strong>Boa Vista Serviços SCPC</strong><br>
-  <em>Analista de Desenvolvedor Java Pleno</em> | Junho/2021 a Março/2022</p>
+  <em>Mid-level Java Developer Analyst</em> | June/2021 to March/2022</p>
   <ul>
-    <li>Correções, melhorias em sistemas legados e atuais.</li>
-    <li>Tecnologias: Spring Boot, SVN, Jenkins, GitLab, Websphere, Apache Tomcat, MySQL, Postgres.</li>
+    <li>Bug fixes and improvements in legacy and current systems.</li>
+    <li>Technologies: Spring Boot, SVN, Jenkins, GitLab, Websphere, Apache Tomcat, MySQL, Postgres.</li>
   </ul>
 </div>
 <div align="left">
   <p><strong>Autopass S/A</strong><br>
-  <em>Analista de Desenvolvedor Java Junior</em> | Julho/2019 a Junho/2021</p>
+  <em>Junior Java Developer Analyst</em> | July/2019 to June/2021</p>
   <ul>
-    <li>Apoio em desenvolvimento Java (Spring Boot, Struts, JSP, JSF, Servlets, PrimeFaces, Java Web).</li>
-    <li>Análise de sistemas, especificações técnicas, dashboards com PowerBI, sistema de monitoramento (AppDynamics).</li>
+    <li>Support in Java development (Spring Boot, Struts, JSP, JSF, Servlets, PrimeFaces, Java Web).</li>
+    <li>System analysis, technical specifications, dashboards with PowerBI, monitoring system (AppDynamics).</li>
   </ul>
 </div>
 
@@ -139,10 +139,10 @@ You can click the Preview link to take a look at your changes.
   <em>LinkedIn Learning</em></p>
 </div>
 <div align="left">
-  <p><strong>Cursos Java</strong><br>
+  <p><strong>Java Course</strong><br>
   <em>Alura</em></p>
 </div>
-Conecte-se Comigo
+Connect with Me
 <div>
   <a href="https://www.linkedin.com/in/airlon-servulo-b53198121/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
