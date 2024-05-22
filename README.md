@@ -102,5 +102,45 @@ Experiência Profissional
 Formação Acadêmica
 <div style="display: inline_block"><br>
   <img align="center" alt="Airlon-FMU" height="50" width="60" src="https://github.com/Airlon/devicon/blob/master/icons/aarch64/logo_fmu-960x640-removebg-preview.png">
-  <img align="center" alt="Airlon-Senac" height="50" width="60" src="https://github.com/Airlon/devicon/blob/master/icons/aarch64/images__2_-removebg-preview.png">
+  <img align="center" alt="Airlon-Senai" height="50" width="60" src="https://github.com/Airlon/devicon/blob/master/icons/aarch64/images__2_-removebg-preview.png">
+</div>
+<div align="left">
+  <p><strong>Universidade Metropolitana Unidas (FMU)</strong><br>
+  <em>Sistemas de Informação</em>, 2019</p>
+</div>
+<div align="left">
+  <p><strong>Senai Ary Torres</strong><br>
+  <em>Técnico em Informática</em>, São Paulo, 2014</p>
+</div>
+Idiomas e Formação Complementar
+<div style="display: inline_block"><br>
+  <img align="center" alt="Airlon-English" height="50" width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/2560px-Flag_of_Canada_%28Pantone%29.svg.png">
+  <img align="center" alt="Airlon-Alura" height="50" width="60" src="https://www.alura.com.br/assets/img/alura/logo.1570550707.svg">
+  <img align="center" alt="Airlon-HackerRank" height="50" width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/HackerRank_logo.png/1920px-HackerRank_logo.png">
+  <img align="center" alt="Airlon-DataScienceAcademy" height="50" width="60" src="https://datacademy.com.br/assets/logo.png">
+  <img align="center" alt="Airlon-LinkedInLearning" height="50" width="60" src="https://static-exp1.licdn.com/sc/h/8gq31o1twfo7z4h016i5ttkbp">
+</div>
+<div align="left">
+  <p><strong>Inglês Avançado</strong><br>
+  <em>Hansa Language Centre, Toronto, Canadá</em></p>
+</div>
+<div align="left">
+  <p><strong>Certificação Software Engineer</strong><br>
+  <em>HackerRank</em></p>
+</div>
+<div align="left">
+  <p><strong>Microsoft PowerBI para Data Science</strong><br>
+  <em>Data Science Academy</em></p>
+</div>
+<div align="left">
+  <p><strong>Learning SQL Programming</strong><br>
+  <em>LinkedIn Learning</em></p>
+</div>
+<div align="left">
+  <p><strong>Cursos Java</strong><br>
+  <em>Alura</em></p>
+</div>
+Conecte-se Comigo
+<div>
+  <a href="https://www.linkedin.com/in/airlon-servulo-b53198121/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
