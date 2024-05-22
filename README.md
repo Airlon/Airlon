@@ -37,7 +37,7 @@ Airlon/Airlon is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 
-Principais Contribuições
+## Principais Contribuições
 <div style="display: inline_block"><br>
   <img align="center" alt="Airlon-Commits" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg">
   <img align="center" alt="Airlon-Issues" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
@@ -49,7 +49,8 @@ Principais Contribuições
     <img height="150em" src="https://github-profile-trophy.vercel.app/?username=Airlon&theme=dark&no-frame=true&row=1&column=6"/>
   </a>
 </div>
-Experiência Profissional
+
+## Experiência Profissional
 <div style="display: inline_block"><br>
   <img align="center" alt="Airlon-NTConsult" height="50" width="60" src="https://github.com/Airlon/devicon/blob/master/icons/oracle/oracle-original.svg">
   <img align="center" alt="Airlon-FintechMagalu" height="50" width="60" src="https://github.com/Airlon/devicon/blob/master/icons/mongodb/mongodb-original.svg">
@@ -99,7 +100,8 @@ Experiência Profissional
     <li>Análise de sistemas, especificações técnicas, dashboards com PowerBI, sistema de monitoramento (AppDynamics).</li>
   </ul>
 </div>
-Formação Acadêmica
+
+## Formação Acadêmica
 <div style="display: inline_block"><br>
   <img align="center" alt="Airlon-FMU" height="50" width="60" src="https://github.com/Airlon/devicon/blob/master/icons/aarch64/logo_fmu-960x640-removebg-preview.png">
   <img align="center" alt="Airlon-Senai" height="50" width="60" src="https://github.com/Airlon/devicon/blob/master/icons/aarch64/images__2_-removebg-preview.png">
@@ -112,7 +114,8 @@ Formação Acadêmica
   <p><strong>Senai Ary Torres</strong><br>
   <em>Técnico em Informática</em>, São Paulo, 2014</p>
 </div>
-Idiomas e Formação Complementar
+
+## Idiomas e Formação Complementar
 <div style="display: inline_block"><br>
   <img align="center" alt="Airlon-English" height="50" width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/2560px-Flag_of_Canada_%28Pantone%29.svg.png">
   <img align="center" alt="Airlon-Alura" height="50" width="60" src="https://www.alura.com.br/assets/img/alura/logo.1570550707.svg">
