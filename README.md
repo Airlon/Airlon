@@ -3,12 +3,6 @@
 - 🛠 Algumas ferramentas e tecnologias que já utilizei: IDE Eclipse, IntelliJ, Tomcat, Websphere, Git, SVN, GitLab, GitHub, Postman, MySQL, SQL, MongoDB, Oracle SQL, Maven, Ant, Spring Boot, Spring Cloud, Spring MVC, Spring Batch.
 - 🎻 Meus hobbies são tocar violino e aquarismo.
 
- <div>
-  <a href="https://github.com/Airlon">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Airlon&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Airlon&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Airlon-Java" height="40" width="50" src="https://github.com/Airlon/devicon/blob/master/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Airlon-Ap" height="50" width="60" src="https://github.com/Airlon/devicon/blob/master/icons/apache/apache-plain-wordmark.svg">
